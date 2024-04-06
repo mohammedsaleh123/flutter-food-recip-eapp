@@ -1,6 +1,6 @@
-# recipeapp
+# flutter food recipe app
 
-A new Flutter project.
+A food recipe app Flutter project.
 
 ## Getting Started
 
